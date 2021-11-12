@@ -1,0 +1,22 @@
+
+
+#first{
+    background-color: blue;
+    font-weight: bold;  
+}
+
+#first h1 {
+    background-color: blue;
+    font-weight: bold;
+
+    h1 {
+        color: white;
+        &:hover {
+            color: #4cbb17;
+        }
+    }
+    p {
+        color: #4cbb17;
+        border: 3px Solid #4cbb17;
+    }
+}

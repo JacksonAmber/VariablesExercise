@@ -1,0 +1,24 @@
+SASS (Syntactically Awesome Style Sheets) is a CSS preprocessor
+
+1. Overview
+    A. SASS allows for styles/CSS to be written using features (Variables, Nested Rules, etc.) that reduce repetition, save time, and make style sheets more organized (NOTE: The browser cannot read/understand a SASS file which is wht SASS file must be compiled into a CSS file).
+
+2. File Types/Extensions
+    A. .SCSS
+        I. Regular CSS styling can be written in this file as well as some extra SASS styling features
+            i. NOTE: This is the file type that we will understand
+    B. .SASS 
+        I. Specific SASS syntax is used in a .sass file 
+            i. In a .sass file no curly brackets are used.Also, indentions determine howwhat styles are applied
+h1
+    color: green;
+
+3. Compiling SASS into CSS
+    A. Live SASS compiler (VS Code Extension)
+        I. While inside of the SASS or SCSS file, open the VS Code Command Palette
+            i. Keyboard shortcut to open Command Palette:
+            Shift + Command + P
+        II. Type "Live Sass: "Watch SASS" and hit "return"
+        III. The "watch SASS" button on the bottom bar can also be used if it is displayed
+    B. Terminal can aslo be used to compile SASS into CSS, However it is a more difficult process.
+    

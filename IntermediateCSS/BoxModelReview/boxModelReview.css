@@ -1,0 +1,33 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-size: 50px;
+    box-sizing: border-box;
+    display: inline-block;
+
+}
+
+#red {
+    border: 40px solid blue;
+    padding: 30px;
+    background-color: red;
+    margin: 50px;
+    width: 250px;
+    height: 250px;
+    display: inline-block;
+    
+}
+
+#green {
+    border: 40px solid blue;
+    padding: 30px;
+    background-color: green;
+    width: 250px;
+    height: 250px;
+    margin: 50px;
+    display: inline-block;
+
+}
+
+    
+

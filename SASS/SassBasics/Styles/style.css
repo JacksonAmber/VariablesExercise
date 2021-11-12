@@ -1,0 +1,23 @@
+#first {
+  background-color: blue;
+  font-weight: bold;
+}
+
+#first h1 {
+  background-color: blue;
+  font-weight: bold;
+}
+
+#first h1 h1 {
+  color: white;
+}
+
+#first h1 h1:hover {
+  color: #4cbb17;
+}
+
+#first h1 p {
+  color: #4cbb17;
+  border: 3px Solid #4cbb17;
+}
+/*# sourceMappingURL=style.css.map */
